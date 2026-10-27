@@ -1,0 +1,4 @@
+id_producto,nombre,descripcion,precio,imagen,activo
+P001,Mini vegetales variados,Bandeja de mini vegetales surtidos.,2600,producto_variado.webp,1
+P002,Mini zuquinis,Bandeja de mini zuquinis frescos.,2500,producto_zuquinis.webp,1
+P003,Chilotes,Bandeja de chilotes frescos.,2000,producto_chilotes.webp,1

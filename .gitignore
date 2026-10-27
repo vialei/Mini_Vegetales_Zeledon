@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.session_secret
+usuarios.csv
+pedidos.csv
+detalle_pedidos.csv
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+usuarios.csv
+pedidos.csv
+detalle_pedidos.csv
